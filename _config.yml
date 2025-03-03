@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Function Area
 subtitle: ''
-description: ''
+description: 'Good Good Study,Day Day Up'
 keywords:
-author: John Doe
+author: Arron
 language: en
-timezone: ''
+timezone: 'shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
