@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc332666-18fc-4f8c-a485-6d5b31a5ec38" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/UnityShadow-md.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/UnityShadow-md.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/butterfly" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/butterfly/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/_config.yml" afterDir="false" />
     </list>
@@ -50,7 +48,7 @@
       <workItem from="1740968980616" duration="10872000" />
       <workItem from="1740989508375" duration="16000" />
       <workItem from="1740989883294" duration="2113000" />
-      <workItem from="1741066543347" duration="2760000" />
+      <workItem from="1741066543347" duration="3478000" />
     </task>
     <servers />
   </component>
