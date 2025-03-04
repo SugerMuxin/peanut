@@ -1,7 +1,9 @@
 ---
 title: UnityShadow.md
 date: 2025-03-04 14:42:54
-tags:
+comments: true
+published: true
+tags: learn
 ---
 
 ### Unity Shadow Solution
