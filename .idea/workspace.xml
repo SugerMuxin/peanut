@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc332666-18fc-4f8c-a485-6d5b31a5ec38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/GPUInstance的使用场景和方法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/GPUInstance的使用场景和方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/GPUInstance的使用场景和方法.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/butterfly" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/butterfly/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/_config.yml" afterDir="false" />
     </list>
@@ -52,7 +51,7 @@
       <workItem from="1740989508375" duration="16000" />
       <workItem from="1740989883294" duration="2113000" />
       <workItem from="1741066543347" duration="4743000" />
-      <workItem from="1741177221163" duration="175000" />
+      <workItem from="1741177221163" duration="419000" />
     </task>
     <servers />
   </component>

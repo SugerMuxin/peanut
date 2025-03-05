@@ -1,8 +1,10 @@
 ---
-title: Wenming
+title: GPUInstance的使用场景和实现方法
 comments: true
 published: true
-tags: history
+tags: 
+  -Unity
+  -Game
 
 ---
 
